@@ -1,6 +1,5 @@
 # themes from https://github.com/alacritty/alacritty-theme
 
-# import = ["~/.config/alacritty/themes/coolnight.toml"]
 import = ["~/.config/alacritty/themes/github_dark_colorblind.toml"]
 
 [font]
