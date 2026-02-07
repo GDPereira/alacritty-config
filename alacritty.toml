@@ -1,16 +1,24 @@
 # themes from https://github.com/alacritty/alacritty-theme
 
-import = ["~/.config/alacritty/themes/github_dark_colorblind.toml"]
+# import = ["~/.config/alacritty/themes/github_dark_colorblind.toml"]
+import = ["~/.config/alacritty/themes/tokyo-night.toml.toml"]
 
 [font]
-size = 16
+size = 16.0
 
 [font.normal]
-family = "MesloLGS NF"
+# family = "MesloLGS NF"
+family = "JetBrainsMono Nerd Font"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
 
 [window]
 decorations = "none"
 
 [window.padding]
-x = 7
+x = 0
 y = 0
