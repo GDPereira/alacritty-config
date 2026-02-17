@@ -1,7 +1,7 @@
 # themes from https://github.com/alacritty/alacritty-theme
 
 # import = ["~/.config/alacritty/themes/github_dark_colorblind.toml"]
-general.import = ["~/.config/alacritty/themes/tokyo-night.toml.toml"]
+general.import = ["~/.config/alacritty/themes/nightfox.toml"]
 
 [font]
 size = 16.0
